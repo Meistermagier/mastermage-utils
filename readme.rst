@@ -1,3 +1,5 @@
-<h1> mastermage-utils </h1>
+================
+mastermage-utils
+================
 
 Personal Physics Students Utility Functions
